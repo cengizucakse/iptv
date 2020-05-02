@@ -1,72 +1,51 @@
-#EXTM3U
-#EXTINF:0,playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTVLCOPT:network-caching=1000
-https://59cba4d34b678.streamlock.net/live2/100-haberturk.stream/playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTINF:0,playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTVLCOPT:network-caching=1000
-https://59cba4d34b678.streamlock.net/live2/100-cnnturk.stream/playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTINF:0,playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTVLCOPT:network-caching=1000
-https://59c7ea6bec1c6.streamlock.net/live/showtv.stream/playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTINF:0,playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTVLCOPT:network-caching=1000
-https://59c7ea6bec1c6.streamlock.net/live/kanal7.stream/playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTINF:0,playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTVLCOPT:network-caching=1000
-https://59c7ea6bec1c6.streamlock.net/live/tv8.stream/playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTINF:0,chunklist_w566325797.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTVLCOPT:network-caching=1000
-https://broadcasttr.com:446/alanyatv/bant1/chunklist_w566325797.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTINF:0,chunks.m3u8
-#EXTVLCOPT:network-caching=1000
-https://waw2.artiyerelmedya.net/dimtv/bant1/chunks.m3u8
-#EXTINF:0,chunklist.sltur.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTVLCOPT:network-caching=1000
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTINF:0,chunks.m3u8?nimblesessionid=106990756
-#EXTVLCOPT:network-caching=1000
-https://streams.livetv.az/turk/atv_turk_sd/chunks.m3u8?nimblesessionid=106990756
-#EXTINF:0,master_1080.m3u8
-#EXTVLCOPT:network-caching=1000
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:0,KANAL D P/O
-#EXTVLCOPT:network-caching=1000
-https://media.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
-#EXTINF:0,chunks.m3u8?nimblesessionid=278699987&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjAgOToyMzoxOSBQTSZoYXNoX3ZhbHVlPXNIa21JM0xteFFuZzZZdEpvWG5NdVE9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTVLCOPT:network-caching=1000
-https://hdtvler2.etvserver.com/live_sd/ulketv/chunks.m3u8?nimblesessionid=278699987&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjAgOToyMzoxOSBQTSZoYXNoX3ZhbHVlPXNIa21JM0xteFFuZzZZdEpvWG5NdVE9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTINF:0,foxtv_480p.m3u8?e=1588414134&st=AD9NostgTRBOQY_5rtgMiw
-#EXTVLCOPT:network-caching=1000
-https://foxtv-live-ad.ercdn.net/foxtv/foxtv_480p.m3u8?e=1588414134&st=AD9NostgTRBOQY_5rtgMiw
-#EXTINF:0,kanald.m3u8?tkn=WtCOY-zt91rccJxfB9datw&tms=1588374652
-#EXTVLCOPT:network-caching=1000
-https://zahir.tvizlehd.com/kanald.m3u8?tkn=WtCOY-zt91rccJxfB9datw&tms=1588374652
-#EXTINF:0,playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjAgOToyNToyNSBQTSZoYXNoX3ZhbHVlPWw3MU5vZlpPeERSSDI3b29oK3ZQR1E9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTVLCOPT:network-caching=1000
-https://hdtvler1.etvserver.com/live_sd/aspor/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjAgOToyNToyNSBQTSZoYXNoX3ZhbHVlPWw3MU5vZlpPeERSSDI3b29oK3ZQR1E9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTINF:0,playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjAgOToyNjo1NSBQTSZoYXNoX3ZhbHVlPUlZMmFXT0VHSjdyRnJ0M0VwTXRnMFE9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTVLCOPT:network-caching=1000
-https://hdtvler2.etvserver.com/live_sd/kanald/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjAgOToyNjo1NSBQTSZoYXNoX3ZhbHVlPUlZMmFXT0VHSjdyRnJ0M0VwTXRnMFE9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTINF:0,playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjAgOToyODozOSBQTSZoYXNoX3ZhbHVlPWVSYlBUVzFLYXA2YkM3dm1sTlVjT3c9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTVLCOPT:network-caching=1000
-https://hdtvler2.etvserver.com/live_sd/cnn_turk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjAgOToyODozOSBQTSZoYXNoX3ZhbHVlPWVSYlBUVzFLYXA2YkM3dm1sTlVjT3c9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTINF:0,playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjAgOToyOTozOSBQTSZoYXNoX3ZhbHVlPUt2MCt6eWNEQVFLbCtTK214dGlJeHc9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTVLCOPT:network-caching=1000
-https://hdtvler2.etvserver.com/live_sd/24tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjAgOToyOTozOSBQTSZoYXNoX3ZhbHVlPUt2MCt6eWNEQVFLbCtTK214dGlJeHc9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTINF:0,playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjAgOTozMTowMyBQTSZoYXNoX3ZhbHVlPWZ2TXZoR1pFZ0U1b3ZZcjA3em1abFE9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTVLCOPT:network-caching=1000
-https://hdtvler2.etvserver.com/live_sd/cartoonnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjAgOTozMTowMyBQTSZoYXNoX3ZhbHVlPWZ2TXZoR1pFZ0U1b3ZZcjA3em1abFE9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTINF:0,playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjAgOTozMjozNSBQTSZoYXNoX3ZhbHVlPWtVL1BWY0Z4TE9XUkIvYVAvUWhWdHc9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTVLCOPT:network-caching=1000
-https://hdtvler2.etvserver.com/live_sd/disneychannel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjAgOTozMjozNSBQTSZoYXNoX3ZhbHVlPWtVL1BWY0Z4TE9XUkIvYVAvUWhWdHc9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTINF:0,playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://59cba4d34b678.streamlock.net/live2/100-haberturk.stream/playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTINF:0,Kral Pop
-http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:0,Kral TV
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:0,Power Türk
-http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
 
+
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1055", trt 1
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="2970", TRT 2
+https://tv-trt2.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="3999", Star TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="1045", Show TV
+https://59c7ea6bec1c6.streamlock.net/live/showtv.stream/playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
+#EXTINF:0 type="stream" channelId="1057", Kanal 7
+https://59c7ea6bec1c6.streamlock.net/live/kanal7.stream/playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
+#EXTINF:0 type="stream" channelId="1076", TV 8
+https://59c7ea6bec1c6.streamlock.net/live/tv8.stream/playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
+#EXTINF:0 type="stream" channelId="1044", Kanal D
+https://media.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1078", NTV
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="1080", trt haber
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="3081", Haber Turk
+https://hdtvler2.etvserver.com/live_sd/haberturk/chunks.m3u8?nimblesessionid=278744865&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjAgODo1NDowOSBBTSZoYXNoX3ZhbHVlPWQrRlQvNStQdWhFcHNhVCsycTVZeEE9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#EXTINF:0 type="stream" channelId="3091", TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sinama
+https://waw2.artiyerelmedya.net/denizpostasitv/bant1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
+#EXTINF:0 type="stream" channelId="-1", vizyon
+https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/chunklist_w287822498.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
+#EXTINF:0 type="stream" channelId="67", TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:0 type="stream" channelId="989", trt turk
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="1050", Kral Pop
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="738", Kral TV
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="1046", Power Türk
+http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:0 type="stream" channelId="1058", TRT Muzik
+https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="-1" background="#984c26", Dim Tv
+https://waw2.artiyerelmedya.net/dimtv/bant1/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-country="TR", Alanya
+https://broadcasttr.com:446/alanyatv/bant1/chunklist_w566325797.m3u8?hash=c831e51237cc452319e228535b9b7402
+#EXTINF:0 type="stream" channelId="-1", tarim
+https://usd.nocvp.com/asset/7Gx7kEbk/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="1059", TRT COCUK
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="4120", EXPRESSEN TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8?fluxustv.m3u8
