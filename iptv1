@@ -1,51 +1,53 @@
 
-
 #EXTM3U
-#EXTINF:0 type="stream" channelId="1055", trt 1
+#EXTINF:0 type="stream" channelId="1055", TRT 1
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="2970", TRT 2
 https://tv-trt2.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 type="stream" channelId="3999", Star TV
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="1045", Show TV
-https://59c7ea6bec1c6.streamlock.net/live/showtv.stream/playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTINF:0 type="stream" channelId="1057", Kanal 7
-https://59c7ea6bec1c6.streamlock.net/live/kanal7.stream/playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTINF:0 type="stream" channelId="1076", TV 8
-https://59c7ea6bec1c6.streamlock.net/live/tv8.stream/playlist.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTINF:0 type="stream" channelId="1044", Kanal D
-https://media.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1078", NTV
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="1080", trt haber
-https://tv-trthaber.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 type="stream" channelId="3081", Haber Turk
-https://hdtvler2.etvserver.com/live_sd/haberturk/chunks.m3u8?nimblesessionid=278744865&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjAgODo1NDowOSBBTSZoYXNoX3ZhbHVlPWQrRlQvNStQdWhFcHNhVCsycTVZeEE9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#EXTINF:0 type="stream" channelId="3119", Show TV Canlı Yayın ᴴᴰ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588474953/ei/6d-tXrjyJaWR8wK_mq-ADg/ip/109.124.158.5/id/inOugVa_NYA.240/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/se/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgMtV1CKlLD_Mrx54d9a2X-ZbQdwiSiknnkaGojm2rZzQCIExEFwn0LoYhBFO8Cxe1TJb2NuVndrqnaI0Qqi4Okmee/file/index.m3u8
+#EXTINF:0 type="stream" channelId="1045", Show Türk Canlı Yayın
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588474972/ei/_N-tXvOqEuHG7AT1zJDYCg/ip/109.124.158.5/id/whFjzwRU12k.283/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/se/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRgIhAP9ikRMNyNGw3Skg8-L2_jiEjq9-6oY4yhmb4JdhWV1kAiEA6ie4On1sSQD74DhF226cTPIclfiSO9q1sz2sFkQ-9E8%3D/file/index.m3u8
+#EXTINF:0 type="stream" channelId="4632", ShowMAX Canlı Yayın
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588474995/ei/E-CtXqDsI4mwyAXhuZr4DA/ip/109.124.158.5/id/QGKEr90CdLg.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/se/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgWveagNxQdIs4qvsBI2lNP11thJhYkNX2U29codmuJzkCIQCZBgACE_nUGtjoQEwLzQQz2yRH2z0kMgdDNOYBSMVo2A%3D%3D/file/index.m3u8
+#EXTINF:0 type="stream" channelId="3999", Star TV - Canlı Yayın HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588475075/ei/Y-CtXt74GoCGv_IPiYas2A4/ip/109.124.158.5/id/xbfzLTDNHNo.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIge4eFjk_FlWTy3jfGXHm6RPLcooRkoCCNLBsqtTS18sUCIQDe8tIZwzulPOeMMPux1KyA654DrV3sFJKkwEhIvUd37A%3D%3D/file/index.m3u8
+#EXTINF:0 type="stream" channelId="3996", atv Canlı Yayın
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588475051/ei/S-CtXregINOSyAXpoa2wBg/ip/109.124.158.5/id/3EdLx6Nzn4k.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhAPmSyJ8cnxknn11q_t6LMoJxSnEgTGXh_0b2oFt__SHgAiA7x4fke0PgXEhmc766veUgMMOGPZ0Hkc24h6IpsQCxQQ%3D%3D/file/index.m3u8
+#EXTINF:0 type="stream" channelId="3076", A Haber Canlı Yayını
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588475259/ei/G-GtXp_2DJKR7QSPwqQI/ip/109.124.158.5/id/0zrSJ6jhAY0.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgPFJbz07vBIqVObsAu1s8iz6zHrmI6dYeULD4CVLSljwCIQDj95z0ZbfQKZHFoi3R3zC2Sw-hXTnTLLTA3YDEAok8KA%3D%3D/file/index.m3u8
+#EXTINF:0 type="stream" channelId="1078", NTV - Canlı Yayın ᴴᴰ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588474729/ei/Cd-tXrvgLa-Ev_IP962P6AY/ip/109.124.158.5/id/XEJM4Hcgd3M.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgZehssxpfTBk99erpnsoc0NFxNimUI6daQCJso7r22MACIQDXHtmfD1yBwMluSwmpp4vYVPxLroJ8acc_R7hZjV_AzA%3D%3D/file/index.m3u8
+#EXTINF:0 type="stream" channelId="1070", CNN Türk - Canlı Yayın ᴴᴰ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588474790/ei/Rd-tXq2IOpLByQWjyICYDg/ip/109.124.158.5/id/ttA3pXkkoSk.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgIp8x7EPihRgBa_rWDNlQu-sImo69OkODQIlnlcB_YIUCICxFMq6dE3lMbWzCbt-Yx5VpIpWBrzgCiS6fRC0T-F3m/file/index.m3u8
+#EXTINF:0 type="stream" channelId="3081", Habertürk TV Canlı Yayın ᴴᴰ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588474853/ei/hd-tXrC2I86RyQWx4b2ABw/ip/109.124.158.5/id/deKH0pQ7-rg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhAIvh0Bl7Yd4L6z8rI0yirVT4E8ntEn299n1bJDeBFleIAiAoXWof2wWYNLS5mB_WNWDC32OQHQ4lf-4Lz_BvT4W3mA%3D%3D/file/index.m3u8
+#EXTINF:0 type="stream" channelId="1080", TRT Haber Canlı Yayın
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588475777/ei/IeOtXrmjCY_CyAXPurTADA/ip/109.124.158.5/id/1KiPidZ-SSE.39/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgFBmO0KczjO4Qt-Wu7PMoeRQWBqrC4mcI9ePV-VFpE0gCIQCObyaL0bVT89LLvwyT2ZLvOE5RC3rNrmBtYixeHqfc0g%3D%3D/file/index.m3u8
+#EXTINF:0 type="stream" channelId="1053", 24 TV Canlı Yayını
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588475162/ei/uuCtXvnhNpvh7QTEtJXYBA/ip/109.124.158.5/id/fT1rYpPDL-A.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgRWLSPCYOlQC7nnKVHOp2qZzmrIfgaHuasNLo6aZJmZMCIBEWng9hBrMsfdoY36YdWiOD9rvG0IDPFiDl-flPkWnj/file/index.m3u8
 #EXTINF:0 type="stream" channelId="3091", TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:0 type="stream" channelId="-1", Sinama
+#EXTINF:0 type="stream" channelId="1091", Sinema
 https://waw2.artiyerelmedya.net/denizpostasitv/bant1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
-#EXTINF:0 type="stream" channelId="-1", vizyon
+#EXTINF:0 type="stream" channelId="4000", Vizyon
 https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/chunklist_w287822498.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
+#EXTINF:0 type="stream" channelId="738", Kral TV - HD Canlı Yayın
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588475177/ei/yeCtXpqTKMnJyQWG2JCAAw/ip/109.124.158.5/id/88tf0H1ycDU.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgDkwwIEIpN4kPcO7RTEKLqoGLcBpUSzDC2E1-r_i7z1YCIQDqAjZSeXoDmph-PZKXc56YJFCR7ArBrwhmp6KZtdsBIQ%3D%3D/file/index.m3u8
+#EXTINF:0 type="stream" channelId="1050", Kral POP
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="1046", Power
+http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:0 type="stream" channelId="-1" background="#50978c", A Spor Canlı
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588475653/ei/peKtXtfwBJTvyQW52beQDA/ip/109.124.158.5/id/KA543IN_Vm8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgYvL3QpygM5N5AaAqNmxfLCBJDNXg5l0sBIdq9graORECIDUo8ghhuKFr55k5rKOfqDl2NH9BBNXa6cIQeVXdykxX/file/index.m3u8
 #EXTINF:0 type="stream" channelId="67", TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:0 type="stream" channelId="989", trt turk
-https://tv-trtturk.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 type="stream" channelId="1050", Kral Pop
-http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="738", Kral TV
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="1046", Power Türk
-http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
-#EXTINF:0 type="stream" channelId="1058", TRT Muzik
-https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 type="stream" channelId="-1" background="#984c26", Dim Tv
-https://waw2.artiyerelmedya.net/dimtv/bant1/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-country="TR", Alanya
-https://broadcasttr.com:446/alanyatv/bant1/chunklist_w566325797.m3u8?hash=c831e51237cc452319e228535b9b7402
-#EXTINF:0 type="stream" channelId="-1", tarim
-https://usd.nocvp.com/asset/7Gx7kEbk/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" background="rgba(225,85,22,0.55)", Dim TV
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:0 type="stream" channelId="-1" background="rgba(223,77,24,0.35)", ALANYA TV
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:0 type="stream" channelId="1059", TRT COCUK
-https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 type="stream" channelId="4120", EXPRESSEN TV
-https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8?fluxustv.m3u8
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:0 type="stream" channelId="4120", Expressen TV
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+
