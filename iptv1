@@ -1,53 +1,127 @@
 
-#EXTM3U
-#EXTINF:0 type="stream" channelId="1055", TRT 1
-https://tv-trt1.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 type="stream" channelId="2970", TRT 2
-https://tv-trt2.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 type="stream" channelId="3119", Show TV Canlı Yayın ᴴᴰ
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588474953/ei/6d-tXrjyJaWR8wK_mq-ADg/ip/109.124.158.5/id/inOugVa_NYA.240/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/se/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgMtV1CKlLD_Mrx54d9a2X-ZbQdwiSiknnkaGojm2rZzQCIExEFwn0LoYhBFO8Cxe1TJb2NuVndrqnaI0Qqi4Okmee/file/index.m3u8
-#EXTINF:0 type="stream" channelId="1045", Show Türk Canlı Yayın
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588474972/ei/_N-tXvOqEuHG7AT1zJDYCg/ip/109.124.158.5/id/whFjzwRU12k.283/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/se/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRgIhAP9ikRMNyNGw3Skg8-L2_jiEjq9-6oY4yhmb4JdhWV1kAiEA6ie4On1sSQD74DhF226cTPIclfiSO9q1sz2sFkQ-9E8%3D/file/index.m3u8
-#EXTINF:0 type="stream" channelId="4632", ShowMAX Canlı Yayın
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588474995/ei/E-CtXqDsI4mwyAXhuZr4DA/ip/109.124.158.5/id/QGKEr90CdLg.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/se/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgWveagNxQdIs4qvsBI2lNP11thJhYkNX2U29codmuJzkCIQCZBgACE_nUGtjoQEwLzQQz2yRH2z0kMgdDNOYBSMVo2A%3D%3D/file/index.m3u8
-#EXTINF:0 type="stream" channelId="3999", Star TV - Canlı Yayın HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588475075/ei/Y-CtXt74GoCGv_IPiYas2A4/ip/109.124.158.5/id/xbfzLTDNHNo.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIge4eFjk_FlWTy3jfGXHm6RPLcooRkoCCNLBsqtTS18sUCIQDe8tIZwzulPOeMMPux1KyA654DrV3sFJKkwEhIvUd37A%3D%3D/file/index.m3u8
-#EXTINF:0 type="stream" channelId="3996", atv Canlı Yayın
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588475051/ei/S-CtXregINOSyAXpoa2wBg/ip/109.124.158.5/id/3EdLx6Nzn4k.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhAPmSyJ8cnxknn11q_t6LMoJxSnEgTGXh_0b2oFt__SHgAiA7x4fke0PgXEhmc766veUgMMOGPZ0Hkc24h6IpsQCxQQ%3D%3D/file/index.m3u8
-#EXTINF:0 type="stream" channelId="3076", A Haber Canlı Yayını
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588475259/ei/G-GtXp_2DJKR7QSPwqQI/ip/109.124.158.5/id/0zrSJ6jhAY0.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgPFJbz07vBIqVObsAu1s8iz6zHrmI6dYeULD4CVLSljwCIQDj95z0ZbfQKZHFoi3R3zC2Sw-hXTnTLLTA3YDEAok8KA%3D%3D/file/index.m3u8
-#EXTINF:0 type="stream" channelId="1078", NTV - Canlı Yayın ᴴᴰ
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588474729/ei/Cd-tXrvgLa-Ev_IP962P6AY/ip/109.124.158.5/id/XEJM4Hcgd3M.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgZehssxpfTBk99erpnsoc0NFxNimUI6daQCJso7r22MACIQDXHtmfD1yBwMluSwmpp4vYVPxLroJ8acc_R7hZjV_AzA%3D%3D/file/index.m3u8
-#EXTINF:0 type="stream" channelId="1070", CNN Türk - Canlı Yayın ᴴᴰ
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588474790/ei/Rd-tXq2IOpLByQWjyICYDg/ip/109.124.158.5/id/ttA3pXkkoSk.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgIp8x7EPihRgBa_rWDNlQu-sImo69OkODQIlnlcB_YIUCICxFMq6dE3lMbWzCbt-Yx5VpIpWBrzgCiS6fRC0T-F3m/file/index.m3u8
-#EXTINF:0 type="stream" channelId="3081", Habertürk TV Canlı Yayın ᴴᴰ
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588474853/ei/hd-tXrC2I86RyQWx4b2ABw/ip/109.124.158.5/id/deKH0pQ7-rg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhAIvh0Bl7Yd4L6z8rI0yirVT4E8ntEn299n1bJDeBFleIAiAoXWof2wWYNLS5mB_WNWDC32OQHQ4lf-4Lz_BvT4W3mA%3D%3D/file/index.m3u8
-#EXTINF:0 type="stream" channelId="1080", TRT Haber Canlı Yayın
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588475777/ei/IeOtXrmjCY_CyAXPurTADA/ip/109.124.158.5/id/1KiPidZ-SSE.39/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgFBmO0KczjO4Qt-Wu7PMoeRQWBqrC4mcI9ePV-VFpE0gCIQCObyaL0bVT89LLvwyT2ZLvOE5RC3rNrmBtYixeHqfc0g%3D%3D/file/index.m3u8
-#EXTINF:0 type="stream" channelId="1053", 24 TV Canlı Yayını
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588475162/ei/uuCtXvnhNpvh7QTEtJXYBA/ip/109.124.158.5/id/fT1rYpPDL-A.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgRWLSPCYOlQC7nnKVHOp2qZzmrIfgaHuasNLo6aZJmZMCIBEWng9hBrMsfdoY36YdWiOD9rvG0IDPFiDl-flPkWnj/file/index.m3u8
-#EXTINF:0 type="stream" channelId="3091", TRT WORLD
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:0 type="stream" channelId="1091", Sinema
-https://waw2.artiyerelmedya.net/denizpostasitv/bant1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
-#EXTINF:0 type="stream" channelId="4000", Vizyon
-https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/chunklist_w287822498.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
-#EXTINF:0 type="stream" channelId="738", Kral TV - HD Canlı Yayın
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588475177/ei/yeCtXpqTKMnJyQWG2JCAAw/ip/109.124.158.5/id/88tf0H1ycDU.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgDkwwIEIpN4kPcO7RTEKLqoGLcBpUSzDC2E1-r_i7z1YCIQDqAjZSeXoDmph-PZKXc56YJFCR7ArBrwhmp6KZtdsBIQ%3D%3D/file/index.m3u8
-#EXTINF:0 type="stream" channelId="1050", Kral POP
-http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="1046", Power
-http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
-#EXTINF:0 type="stream" channelId="-1" background="#50978c", A Spor Canlı
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588475653/ei/peKtXtfwBJTvyQW52beQDA/ip/109.124.158.5/id/KA543IN_Vm8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgYvL3QpygM5N5AaAqNmxfLCBJDNXg5l0sBIdq9graORECIDUo8ghhuKFr55k5rKOfqDl2NH9BBNXa6cIQeVXdykxX/file/index.m3u8
-#EXTINF:0 type="stream" channelId="67", TLC
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:0 type="stream" channelId="-1" background="rgba(225,85,22,0.55)", Dim TV
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:0 type="stream" channelId="-1" background="rgba(223,77,24,0.35)", ALANYA TV
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:0 type="stream" channelId="1059", TRT COCUK
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:0 type="stream" channelId="4120", Expressen TV
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 
+#EXTM3U
+#EXTINF:0,|TR| TRT 1 HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3251
+#EXTINF:0,|TR| TRT 2 HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3254
+#EXTINF:0,|TR| SHOW TV
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3255
+#EXTINF:0,|TR| Star TV HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3257
+#EXTINF:0,|TR| KANAL D HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3258
+#EXTINF:0,|TR| ATV HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3259
+#EXTINF:0,|TR| KANAL 7 HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/1702
+#EXTINF:0,|TR| FOX TV HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/1721
+#EXTINF:0,|TR| TV 8 INT HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3260
+#EXTINF:0,|TR| Beyaz TV HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3275
+#EXTINF:0,|TR| Show Max HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3262
+#EXTINF:0,|TR| Kanal 24
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3271
+#EXTINF:0,|TR| ULKE
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3312
+#EXTINF:0,|TR| NTV HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3473
+#EXTINF:0,|TR| CNN TURK HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3479
+#EXTINF:0,|TR| HaberTurk HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3477
+#EXTINF:0,|TR| TRT HABER HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3470
+#EXTINF:0,|TR| A Haber HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3481
+#EXTINF:0,|TR| TRT DIYANET HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3272
+#EXTINF:0,|TR| EUROSPORT 1 HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3282
+#EXTINF:0,|TR| TRT Spor HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3285
+#EXTINF:0,|TR| BeinSport Haber
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3287
+#EXTINF:0,|TR| A Spor HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3289
+#EXTINF:0,|TR| BEIN SPORTS 1 HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/2832
+#EXTINF:0,|TR| TIVIBU SPOR 1
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/2836
+#EXTINF:0,|TR| TIVIBU SPOR 2
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/2837
+#EXTINF:0,|TR| TRT Cocuk HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3299
+#EXTINF:0,|TR| Cocuk SMART HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3301
+#EXTINF:0,|TR| Minika Go HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3302
+#EXTINF:0,|TR| Minika Cocuk
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3303
+#EXTINF:0,|TR| NICk JUNIOR HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3270
+#EXTINF:0,|TR| Disney Channel
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3304
+#EXTINF:0,|TR| CARTOON NETWORK HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3305
+#EXTINF:0,|TR| Bein Series HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3307
+#EXTINF:0,|TR| VIZYON TURKTV
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3311
+#EXTINF:0,|TR| SINEMA TURK
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3317
+#EXTINF:0,|TR| Sinema TV HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3318
+#EXTINF:0,|TR| SiNEMA TV YERLi HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3319
+#EXTINF:0,|TR| Loca1
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3453
+#EXTINF:0,|TR| Loca2
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3452
+#EXTINF:0,|TR| Loca3
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3451
+#EXTINF:0,|TR| BEIN SPORTS 2 HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/2833
+#EXTINF:0,|TR| NR1 HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3268
+#EXTINF:0,|TR| Kral POP HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3337
+#EXTINF:0,|TR| DREAM TURK HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3443
+#EXTINF:0,|TR| POWER TV HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3385
+#EXTINF:0,|TR| History HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3348
+#EXTINF:0,|TR| KIBRIS 
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3349
+#EXTINF:0,|TR| BBC Earth
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3338
+#EXTINF:0,dimtv.m3u8
+#EXTVLCOPT:network-caching=1000
+https://dimtv.metmarbilisim.com/hls/dimtv.m3u8
+#EXTINF:0,iptvdelisi.m3u8
+#EXTVLCOPT:network-caching=1000
+http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
+#EXTINF:0,|TR| TRT BELGESEL HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3292
+#EXTINF:0,|TR| NATIONAL GEOGRAPHIC HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3377
+#EXTINF:0,|TR| Nat Geo Wild HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3378
+#EXTINF:0,|TR| NATIONAL GEO PEOPLE HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3379
+#EXTINF:0,|TR| Discovery Science HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3388
+#EXTINF:0,|TR| Discovery Channel HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3397
+#EXTINF:0,|TR| BeIN IZ HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3423
+#EXTINF:0,|TR| TV 8
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3439
+#EXTINF:0,|TR| TV8 HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3466
+#EXTINF:0,|TR| Bloomberg HT HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3480
