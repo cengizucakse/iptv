@@ -1,127 +1,121 @@
-
-
 #EXTM3U
-#EXTINF:0,|TR| TRT 1 HD
+#EXTINF:0 type="stream" channelId="1055", TRT 1 HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3251
-#EXTINF:0,|TR| TRT 2 HD
+#EXTINF:0 type="stream" channelId="2970", TRT 2 HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3254
-#EXTINF:0,|TR| SHOW TV
+#EXTINF:0 type="stream" channelId="1045", SHOW TV
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3255
-#EXTINF:0,|TR| Star TV HD
+#EXTINF:0 type="stream" channelId="3999", Star TV HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3257
-#EXTINF:0,|TR| KANAL D HD
+#EXTINF:0 type="stream" channelId="1044", KANAL D HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3258
-#EXTINF:0,|TR| ATV HD
+#EXTINF:0 type="stream" channelId="3996", ATV HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3259
-#EXTINF:0,|TR| KANAL 7 HD
+#EXTINF:0 type="stream" channelId="1057", KANAL 7 HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/1702
-#EXTINF:0,|TR| FOX TV HD
+#EXTINF:0 type="stream" channelId="177", FOX TV HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/1721
-#EXTINF:0,|TR| TV 8 INT HD
+#EXTINF:0 type="stream" channelId="1076", TV 8 INT HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3260
-#EXTINF:0,|TR| Beyaz TV HD
+#EXTINF:0 type="stream" channelId="1082", Beyaz TV HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3275
-#EXTINF:0,|TR| Show Max HD
+#EXTINF:0 type="stream" channelId="4632", Show Max HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3262
-#EXTINF:0,|TR| Kanal 24
+#EXTINF:0 type="stream" channelId="1053" aspect-ratio="3:2", Kanal 24
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3271
-#EXTINF:0,|TR| ULKE
+#EXTINF:0 type="stream" channelId="2535", ULKE
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3312
-#EXTINF:0,|TR| NTV HD
+#EXTINF:0 type="stream" channelId="1078", NTV HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3473
-#EXTINF:0,|TR| CNN TURK HD
+#EXTINF:0 type="stream" channelId="1070", CNN TURK HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3479
-#EXTINF:0,|TR| HaberTurk HD
+#EXTINF:0 type="stream" channelId="3081", HaberTurk HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3477
-#EXTINF:0,|TR| TRT HABER HD
+#EXTINF:0 type="stream" channelId="1080", TRT HABER HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3470
-#EXTINF:0,|TR| A Haber HD
+#EXTINF:0 type="stream" channelId="3076", A Haber HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3481
-#EXTINF:0,|TR| TRT DIYANET HD
+#EXTINF:0 type="stream" channelId="1129", TRT DIYANET HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3272
-#EXTINF:0,|TR| EUROSPORT 1 HD
+#EXTINF:0 type="stream" channelId="82", EUROSPORT 1 HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3282
-#EXTINF:0,|TR| TRT Spor HD
+#EXTINF:0 type="stream" channelId="1060", TRT Spor HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3285
-#EXTINF:0,|TR| BeinSport Haber
+#EXTINF:0 type="stream" channelId="1591", BeinSport Haber
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3287
-#EXTINF:0,|TR| A Spor HD
+#EXTINF:0 type="stream" channelId="1578" size="Medium", A Spor
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3289
-#EXTINF:0,|TR| BEIN SPORTS 1 HD
+#EXTINF:0 type="stream" channelId="1591", BEIN SPORTS 1 HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/2832
-#EXTINF:0,|TR| TIVIBU SPOR 1
+#EXTINF:0 type="stream" channelId="-1", TIVIBU SPOR 1
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/2836
-#EXTINF:0,|TR| TIVIBU SPOR 2
+#EXTINF:0 type="stream" channelId="-1", |TR| TIVIBU SPOR 2
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/2837
-#EXTINF:0,|TR| TRT Cocuk HD
+#EXTINF:0 type="stream" channelId="1059", TRT Cocuk HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3299
-#EXTINF:0,|TR| Cocuk SMART HD
+#EXTINF:0 type="stream" channelId="-1", Cocuk SMART HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3301
-#EXTINF:0,|TR| Minika Go HD
+#EXTINF:0 type="stream" channelId="1096", Minika Go HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3302
-#EXTINF:0,|TR| Minika Cocuk
+#EXTINF:0 type="stream" channelId="1097", Minika Cocuk
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3303
-#EXTINF:0,|TR| NICk JUNIOR HD
+#EXTINF:0 type="stream" channelId="322", NICk JUNIOR HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3270
-#EXTINF:0,|TR| Disney Channel
+#EXTINF:0 type="stream" channelId="19", Disney Channel
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3304
-#EXTINF:0,|TR| CARTOON NETWORK HD
+#EXTINF:0 type="stream" channelId="40", CARTOON NETWORK HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3305
-#EXTINF:0,|TR| Bein Series HD
-http://globe2.midomed.com:80/walidca/jXjTFUVm29/3307
-#EXTINF:0,|TR| VIZYON TURKTV
+#EXTINF:0 type="stream" channelId="1126", VIZYON TURKTV
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3311
-#EXTINF:0,|TR| SINEMA TURK
+#EXTINF:0 type="stream" channelId="-1", SINEMA TURK
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3317
-#EXTINF:0,|TR| Sinema TV HD
+#EXTINF:0 type="stream" channelId="-1", Sinema TV HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3318
-#EXTINF:0,|TR| SiNEMA TV YERLi HD
+#EXTINF:0 type="stream" channelId="-1", SiNEMA TV YERLi HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3319
-#EXTINF:0,|TR| Loca1
+#EXTINF:0 type="stream" channelId="-1", Loca1
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3453
-#EXTINF:0,|TR| Loca2
+#EXTINF:0 type="stream" channelId="-1", |TR| Loca2
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3452
-#EXTINF:0,|TR| Loca3
+#EXTINF:0 type="stream" channelId="-1", |TR| Loca3
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3451
-#EXTINF:0,|TR| BEIN SPORTS 2 HD
+#EXTINF:0 type="stream" channelId="1592", BEIN SPORTS 2 HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/2833
-#EXTINF:0,|TR| NR1 HD
+#EXTINF:0 type="stream" channelId="4082", NR1 HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3268
-#EXTINF:0,|TR| Kral POP HD
+#EXTINF:0 type="stream" channelId="1050", Kral POP HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3337
-#EXTINF:0,|TR| DREAM TURK HD
+#EXTINF:0 type="stream" channelId="3997", DREAM TURK HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3443
-#EXTINF:0,|TR| POWER TV HD
+#EXTINF:0 type="stream" channelId="1046", POWER TV HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3385
-#EXTINF:0,|TR| History HD
+#EXTINF:0 type="stream" channelId="1455", History HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3348
-#EXTINF:0,|TR| KIBRIS 
+#EXTINF:0 type="stream" channelId="-1", KIBRIS
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3349
-#EXTINF:0,|TR| BBC Earth
+#EXTINF:0 type="stream" channelId="3192", BBC Earth
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3338
-#EXTINF:0,dimtv.m3u8
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 type="stream" channelId="-1", Dim TV
 https://dimtv.metmarbilisim.com/hls/dimtv.m3u8
-#EXTINF:0,iptvdelisi.m3u8
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 type="stream" channelId="-1", Alanya Postasi
 http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
-#EXTINF:0,|TR| TRT BELGESEL HD
+#EXTINF:0 type="stream" channelId="1092", TRT BELGESEL HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3292
-#EXTINF:0,|TR| NATIONAL GEOGRAPHIC HD
+#EXTINF:0 type="stream" channelId="56", NATIONAL GEOGRAPHIC HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3377
-#EXTINF:0,|TR| Nat Geo Wild HD
+#EXTINF:0 type="stream" channelId="164", Nat Geo Wild HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3378
-#EXTINF:0,|TR| NATIONAL GEO PEOPLE HD
+#EXTINF:0 type="stream" channelId="-1", NATIONAL GEO PEOPLE
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3379
-#EXTINF:0,|TR| Discovery Science HD
+#EXTINF:0 type="stream" channelId="58", Discovery Science HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3388
-#EXTINF:0,|TR| Discovery Channel HD
+#EXTINF:0 type="stream" channelId="57", Discovery Channel HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3397
-#EXTINF:0,|TR| BeIN IZ HD
+#EXTINF:0 type="stream" channelId="3632", BeIN IZ HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3423
-#EXTINF:0,|TR| TV 8
+#EXTINF:0 type="stream" channelId="1076", TV 8
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3439
-#EXTINF:0,|TR| TV8 HD
+#EXTINF:0 type="stream" channelId="1076", TV8 HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3466
-#EXTINF:0,|TR| Bloomberg HT HD
+#EXTINF:0 type="stream" channelId="3075", Bloomberg HT HD
 http://globe2.midomed.com:80/walidca/jXjTFUVm29/3480
